@@ -74,5 +74,3 @@ Explica o conceito de **funções**, elemento central da programação moderna.
 - Exercícios práticos e analogias com jogos e redes sociais
 
 ---
-
-## 🧭 Estrutura do Repositório
